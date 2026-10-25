@@ -1,14 +1,14 @@
-# Programming in Python — Lab Exercises
+# Programming in Python Labs
 
-Python lab exercises and practical assignments for **CSC 4162: Programming in Python**.
+This repository contains my lab exercises for CSC 4162, Programming in Python.
 
 ## Student Information
 
-- **Name:** Mominur Islam Roby
-- **Student ID:** 22-48681-3
-- **Course:** CSC 4162 — Programming in Python
+- Name: Mominur Islam Roby
+- Student ID: 22-48681-3
+- Course: CSC 4162, Programming in Python
 
-## Repository Structure
+## Folder Structure
 
 ```text
 Programming-in-Python-Labs/
@@ -34,47 +34,40 @@ Programming-in-Python-Labs/
     └── exercise2.py
 ```
 
-## Lab Contents
+## Lab Exercises
 
-### Lab 1 — First Python Program
-- Print a greeting and student introduction.
+### Lab 1: First Python Program
+- Print a greeting and introduce myself.
 
-### Lab 2 — Python Setup and First Programs
-- Variables and basic output.
-- User input, string concatenation, and checking data types.
-- Practice with Python environments such as IDLE and Google Colab.
+### Lab 2: Python Setup and Basic Input/Output
+- Work with variables and print statements.
+- Take user input and check its data type.
+- Practice using IDLE and Google Colab.
 
-### Lab 3 — Variables, Data Types, Operators, and Conditional Flow
-1. Swap the values of two variables.
+### Lab 3: Variables and Conditional Statements
+1. Swap two variable values.
 2. Calculate the distance between two points.
-3. Determine whether an integer is even or odd.
+3. Check whether a number is even or odd.
 4. Check whether a character is a vowel.
-5. Convert marks into a letter grade and grade point using the course grading criteria.
+5. Convert marks to a letter grade and grade point using the course grading criteria.
 
-### Lab 4 — Loops
-1. Iterate through a sequence using a `for` loop.
+### Lab 4: Loops
+1. Print items from a sequence using a `for` loop.
 2. Count down to zero using a `while` loop.
-3. Calculate a number raised to a power using a loop.
+3. Calculate a power using a loop.
 4. Find the sum of prime numbers below 1000.
-5. Display Fibonacci numbers below a user-provided limit.
+5. Print Fibonacci numbers below a given limit.
 
-### Lab 5 — Functions and Lists
-- **Exercise 1: Campus Resource Tracker** — display resources, search by category, identify unavailable resources, and test edge cases.
-- **Exercise 2: Student Marks Investigator** — calculate averages, classify student performance, generate reports, and test edge cases.
+### Lab 5: Functions and Lists
+- **Exercise 1: Campus Resource Tracker**. Display resources, search by category, and find unavailable resources.
+- **Exercise 2: Student Marks Investigator**. Calculate student averages, classify performance, and display a report.
 
-## Running the Programs
+## How to Run
 
-1. Install Python 3.
-2. Clone or download this repository.
-3. Open the project folder in VS Code or a terminal.
-4. Run a program from the repository root using Python. For example:
+Make sure Python 3 is installed. Open this folder in VS Code or a terminal, then run the file you want to test. For example:
 
-   ```powershell
-   python Lab-3/exercise1.py
-   ```
+```powershell
+python Lab-3/exercise1.py
+```
 
-   Replace the path with the exercise you want to run. Programs that request input will prompt you in the terminal.
-
-## Purpose
-
-This repository keeps the course's lab programs organized by lab number and provides a record of practical work completed for CSC 4162.
+Change the file path to run a different exercise. If a program needs input, enter it in the terminal when prompted.
