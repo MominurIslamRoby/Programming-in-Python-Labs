@@ -6,7 +6,7 @@ Lab exercises, Python programs, and practical assignments for the Programming in
 
 - **Name:** Mominur Islam Roby
 - **Student ID:** 22-48681-3
-- **Course:** Programming in Python
+- **Course:** CSC 4162 - Programming in Python
 
 ## Repository Structure
 
@@ -15,6 +15,8 @@ Programming-in-Python-Labs/
 ├── README.md
 ├── Lab-1/
 │   └── hello.py
+├── Lab-2/
+│   └── exercise1.py
 └── Lab-5/
     ├── exercise1.py
     └── exercise2.py
@@ -23,6 +25,7 @@ Programming-in-Python-Labs/
 ## Lab Contents
 
 - **Lab 1:** First Python program.
+- **Lab 2:** Variables, output, user input, and input data type practice in Python.
 - **Lab 5, Exercise 1:** Campus Resource Tracker.
 - **Lab 5, Exercise 2:** Student Marks Investigator.
 
