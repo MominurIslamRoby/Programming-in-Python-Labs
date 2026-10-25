@@ -4,7 +4,7 @@ This repository contains my lab exercises for CSC 4162, Programming in Python.
 
 ## Student Information
 
-- Name: Mominur Islam Roby
+- Name: Md. Mominur Islam Roby
 - Student ID: 22-48681-3
 - Course: CSC 4162, Programming in Python
 
