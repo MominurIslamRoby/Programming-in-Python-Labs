@@ -74,3 +74,8 @@ if __name__ == "__main__":
 
     print("\nEMPTY LIST TEST")
     display_resources([])
+
+
+    print("\nNEGATIVE QUANTITY TEST")
+    test_resources = [[106, "Tablet", "Electronics", -2]]
+    display_resources(test_resources)
